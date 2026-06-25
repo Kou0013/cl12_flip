@@ -34,6 +34,6 @@ img_flip.save(output_image)
 ### 3.2. 出力結果
 - 以下のように入力画像の左右反転画像が出力されます。
   | 入力画像(input.jpg) | 出力画像(output.jpg) |
-  | --- | --- |
-  | <img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/b9a0387d-a8fc-4ec1-8215-ed5dce93cb01" /> | <img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/bc4c4277-f289-4a17-a07b-b1ea6cb22084" /> |
+  | :---: | :---: |
+  |  |  |
 以上
